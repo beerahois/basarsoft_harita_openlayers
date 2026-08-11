@@ -1,8 +1,33 @@
 using Infrastructure.Context;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// --- JWT  ---
+var jwtSettings = builder.Configuration.GetSection("Jwt");
+var key = Encoding.UTF8.GetBytes(jwtSettings["Key"]!);
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true, // burada sureli jwy için gereken ayar
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = jwtSettings["Issuer"],
+        ValidAudience = jwtSettings["Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(key)
+    };
+});
 
 // --- postgresql bağlantısı ---
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -34,6 +59,10 @@ app.UseDefaultFiles();
 
 app.UseStaticFiles();
 
+app.UseRouting();
+
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllers();
@@ -55,6 +84,7 @@ app.UseStatusCodePagesWithRedirects("/");
 
 
 // --- 2. KÖK DİZİN (ROOT) İÇİN İSTEĞİ INDEX.HTML'E YÖNLENDİR (İsteğe bağlı) ---
+
 app.MapGet("/map", async context =>
 {
     context.Response.Redirect("/map.html");

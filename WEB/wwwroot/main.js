@@ -17,8 +17,8 @@ function App() {
       const data = await response.json();
 
       if (response.ok) {
-        console.log(data.message);
-        alert(data.message);
+        localStorage.setItem("jwt_token", data.token);
+        window.location.href = "/map.html";
       } else {
         console.error(data.message);
         alert(data.message);
