@@ -1,0 +1,17 @@
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Application.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Core.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Application.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Core.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

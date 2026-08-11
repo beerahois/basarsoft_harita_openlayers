@@ -1,0 +1,15 @@
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/bin/Debug/net8.0/Application.deps.json
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/bin/Debug/net8.0/Application.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/bin/Debug/net8.0/Application.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/bin/Debug/net8.0/Core.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/bin/Debug/net8.0/Core.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/Application.pdb
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Application/obj/Debug/net8.0/ref/Application.dll

@@ -1,0 +1,6 @@
+@basarsoft_openlayer_HostAddress = http://localhost:5244
+
+GET {{basarsoft_openlayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
