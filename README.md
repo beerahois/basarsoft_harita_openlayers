@@ -1,8 +1,14 @@
-# Basarsoft Harita OpenLayers
+x# Basarsoft Harita OpenLayers
 
 ufak bi .NET proje. içinde WEB, Core, Application ve Infrastructure katmanları var.
 
-## teknolohiler
+## Teknolojiler
+
+- .NET 8
+- React 
+- OpenLayers
+
+## proje yapısı
 
 - `WEB`: api ve basit login ekranı
 - `Core`: entity ler
