@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+.DS_Store
+Thumbs.db
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+TestResults/
+CoverageReport/
+node_modules/
