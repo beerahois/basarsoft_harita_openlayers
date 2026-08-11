@@ -1,4 +1,34 @@
 function App() {
+  const [username, setUsername] = React.useState("");
+  const [password, setPassword] = React.useState("");
+
+  const handleLogin = async (event) => {
+    event.preventDefault();
+
+    try {
+      const response = await fetch("/api/auth/login", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ username, password }),
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        console.log(data.message);
+        alert(data.message);
+      } else {
+        console.error(data.message);
+        alert(data.message);
+      }
+    } catch (error) {
+      console.error("hata", error);
+      alert("hata");
+    }
+  };
+
   return React.createElement(
     "main",
     { className: "page" },
@@ -6,16 +36,22 @@ function App() {
       "form",
       {
         className: "login-card",
-        onSubmit: (event) => event.preventDefault(),
+        onSubmit: handleLogin,
       },
       React.createElement("h1", { className: "baslik" }, "Basarsoft"),
       React.createElement("input", {
-        type: "username",
+        type: "text",
         placeholder: "username",
+        value: username,
+        onChange: (event) => setUsername(event.target.value),
+        autoComplete: "username",
       }),
       React.createElement("input", {
         type: "password",
         placeholder: "Password",
+        value: password,
+        onChange: (event) => setPassword(event.target.value),
+        autoComplete: "current-password",
       }),
       React.createElement("button", { type: "submit" }, "Gonder"),
     ),

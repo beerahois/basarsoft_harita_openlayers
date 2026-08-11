@@ -9,3 +9,4 @@
 /Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Core/obj/Debug/net8.0/refint/Core.dll
 /Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Core/obj/Debug/net8.0/Core.pdb
 /Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Core/obj/Debug/net8.0/ref/Core.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Core/obj/Debug/net8.0/Core.sourcelink.json

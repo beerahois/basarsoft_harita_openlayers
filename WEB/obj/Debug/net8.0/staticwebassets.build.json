@@ -1,1 +1,96 @@
-{"Version":1,"Hash":"vLSjLq7+okF6xqR6mp3rQRI9rAPJpCsNUaOx6jo7gxY=","Source":"WEB","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"WEB/wwwroot","Source":"WEB","ContentRoot":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/","BasePath":"/","Pattern":"**"}],"Assets":[{"Identity":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/index.html","SourceId":"WEB","SourceType":"Discovered","ContentRoot":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/","BasePath":"/","RelativePath":"index#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"2qdrizm46r","Integrity":"OpwbgPRMOvlK0e4f5OcVkV54H/nL53SuC1IfiNsf0DE=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot/index.html","FileLength":505,"LastWriteTime":"2026-08-11T15:38:51+00:00"},{"Identity":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/main.js","SourceId":"WEB","SourceType":"Discovered","ContentRoot":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/","BasePath":"/","RelativePath":"main#[.{fingerprint}]?.js","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"l71ehobwc5","Integrity":"X0H1sXGNlkb6s1oP8kDs8zzTEo8KEVPdR9/g7mUasQI=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot/main.js","FileLength":699,"LastWriteTime":"2026-08-11T15:34:21+00:00"},{"Identity":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/map.html","SourceId":"WEB","SourceType":"Discovered","ContentRoot":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/","BasePath":"/","RelativePath":"map#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"hkguciwlcy","Integrity":"YQM6Df7+z0guuzBzAejydi8GEykV4MvGl/pk/WiTUXg=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot/map.html","FileLength":1075,"LastWriteTime":"2026-08-11T15:22:49+00:00"},{"Identity":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/style.css","SourceId":"WEB","SourceType":"Discovered","ContentRoot":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/","BasePath":"/","RelativePath":"style#[.{fingerprint}]?.css","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"1oga9k4qsr","Integrity":"H1R21Pf5Hnjra0CezfMANFdKr9YQl+w8rYyOSbbo/7I=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot/style.css","FileLength":1731,"LastWriteTime":"2026-08-11T15:29:57+00:00"}],"Endpoints":[{"Route":"index.2qdrizm46r.html","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/index.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"505"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"OpwbgPRMOvlK0e4f5OcVkV54H/nL53SuC1IfiNsf0DE=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:38:51 GMT"}],"EndpointProperties":[{"Name":"fingerprint","Value":"2qdrizm46r"},{"Name":"integrity","Value":"sha256-OpwbgPRMOvlK0e4f5OcVkV54H/nL53SuC1IfiNsf0DE="},{"Name":"label","Value":"index.html"}]},{"Route":"index.html","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/index.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"505"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"OpwbgPRMOvlK0e4f5OcVkV54H/nL53SuC1IfiNsf0DE=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:38:51 GMT"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-OpwbgPRMOvlK0e4f5OcVkV54H/nL53SuC1IfiNsf0DE="}]},{"Route":"main.js","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/main.js","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"699"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"X0H1sXGNlkb6s1oP8kDs8zzTEo8KEVPdR9/g7mUasQI=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:34:21 GMT"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-X0H1sXGNlkb6s1oP8kDs8zzTEo8KEVPdR9/g7mUasQI="}]},{"Route":"main.l71ehobwc5.js","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/main.js","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"699"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\"X0H1sXGNlkb6s1oP8kDs8zzTEo8KEVPdR9/g7mUasQI=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:34:21 GMT"}],"EndpointProperties":[{"Name":"fingerprint","Value":"l71ehobwc5"},{"Name":"integrity","Value":"sha256-X0H1sXGNlkb6s1oP8kDs8zzTEo8KEVPdR9/g7mUasQI="},{"Name":"label","Value":"main.js"}]},{"Route":"map.hkguciwlcy.html","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/map.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1075"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"YQM6Df7+z0guuzBzAejydi8GEykV4MvGl/pk/WiTUXg=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:22:49 GMT"}],"EndpointProperties":[{"Name":"fingerprint","Value":"hkguciwlcy"},{"Name":"integrity","Value":"sha256-YQM6Df7+z0guuzBzAejydi8GEykV4MvGl/pk/WiTUXg="},{"Name":"label","Value":"map.html"}]},{"Route":"map.html","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/map.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1075"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"YQM6Df7+z0guuzBzAejydi8GEykV4MvGl/pk/WiTUXg=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:22:49 GMT"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-YQM6Df7+z0guuzBzAejydi8GEykV4MvGl/pk/WiTUXg="}]},{"Route":"style.1oga9k4qsr.css","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/style.css","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1731"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"H1R21Pf5Hnjra0CezfMANFdKr9YQl+w8rYyOSbbo/7I=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:29:57 GMT"}],"EndpointProperties":[{"Name":"fingerprint","Value":"1oga9k4qsr"},{"Name":"integrity","Value":"sha256-H1R21Pf5Hnjra0CezfMANFdKr9YQl+w8rYyOSbbo/7I="},{"Name":"label","Value":"style.css"}]},{"Route":"style.css","AssetFile":"/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/style.css","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1731"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"H1R21Pf5Hnjra0CezfMANFdKr9YQl+w8rYyOSbbo/7I=\""},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 15:29:57 GMT"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-H1R21Pf5Hnjra0CezfMANFdKr9YQl+w8rYyOSbbo/7I="}]}]}
+{
+  "Version": 1,
+  "Hash": "1Ud/nKQKxb4P2yg4vCj6v7OMtoayl/8m7avMmDSHnhs=",
+  "Source": "WEB",
+  "BasePath": "_content/WEB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WEB/wwwroot",
+      "Source": "WEB",
+      "ContentRoot": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/",
+      "BasePath": "_content/WEB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/index.html",
+      "SourceId": "WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/",
+      "BasePath": "_content/WEB",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/main.js",
+      "SourceId": "WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/",
+      "BasePath": "_content/WEB",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.js"
+    },
+    {
+      "Identity": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/map.html",
+      "SourceId": "WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/",
+      "BasePath": "_content/WEB",
+      "RelativePath": "map.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/map.html"
+    },
+    {
+      "Identity": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/style.css",
+      "SourceId": "WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/WEB/wwwroot/",
+      "BasePath": "_content/WEB",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}

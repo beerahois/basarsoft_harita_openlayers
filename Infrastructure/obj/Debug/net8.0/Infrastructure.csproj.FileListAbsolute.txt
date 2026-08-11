@@ -15,3 +15,6 @@
 /Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/suleymanharmandar/Documents/Development/basarsoft_harita_openlayers/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
