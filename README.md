@@ -2,7 +2,7 @@
 
 ufak bi .NET proje. içinde WEB, Core, Application ve Infrastructure katmanları var.
 
-## ne var burada?
+## teknolohiler
 
 - `WEB`: api ve basit login ekranı
 - `Core`: entity ler
@@ -25,5 +25,3 @@ dotnet run
 ## not
 
 Login ekranı sade tutuldu. form gönderince `/api/auth/login` isteği atıyor.
-
-Projede `bin` ve `obj` klasorleri git e girmez, normalde gerek de yok zaten.
